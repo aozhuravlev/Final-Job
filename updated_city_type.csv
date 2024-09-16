@@ -1,0 +1,2386 @@
+Kazan,first
+Saint Petersburg,first
+Grozny,first
+(not set),abandoned
+Vladivostok,first
+Tula,first
+Naberezhnye Chelny,first
+Ufa,first
+Samara,first
+Warsaw,capital
+Korolyov,second
+Balashikha,second
+Yekaterinburg,first
+Penza,first
+Perm,first
+Ivanovo,first
+Ulan-Ude,first
+Izhevsk,first
+Kandalaksha,place
+Nizhny Novgorod,first
+Novokuznetsk,place
+Zhukovskiy,second
+Rostov-on-Don,first
+Alexandrov,second
+Krasnodar,first
+Palma,first
+Vologda,first
+Khimki,second
+Novosibirsk,first
+Lipetsk,first
+Chelyabinsk,first
+Guyancourt,place
+Domodedovo,second
+Kamyshin,place
+Tashkent,capital
+Sochi,place
+Ryazan,first
+Kyzyl,first
+Riyadh,capital
+Yaroslavl,first
+Bryansk,first
+Volgograd,first
+Pyatigorsk,second
+Stupino,second
+Kaliningrad,first
+Nakhabino,place
+Mytishchi,place
+Odintsovo,second
+Shchyolkovo,place
+Dmitrov,place
+Kaluga,first
+Pervouralsk,place
+Sergiyev Posad,second
+Vidnoye,second
+Novaya Adygeya,place
+Krasnogorsk,second
+Saransk,first
+Khabarovsk,first
+Norilsk,place
+Chekhov,second
+Minsk,capital
+Krasnoyarsk,first
+Ivanteyevka,place
+Kyiv,capital
+Yuzhno-Sakhalinsk,first
+Stavropol,first
+Pskov,first
+Odesa,first
+New York,place
+Saratov,first
+Paris,capital
+Grodno,first
+Zheleznodorozhny,place
+Sevastopol,first
+Irkutsk,first
+Reutov,second
+Omsk,first
+Split,first
+Voronezh,first
+Sharjah,first
+Tver,first
+Obninsk,second
+Ramenskoye,second
+Nalchik,first
+Sterlitamak,place
+Lobnya,second
+Ul'yanovka,place
+Golitsyno,place
+Sertolovo,place
+Dolgoprudny,second
+Gelendzhik,place
+Tuchkovo,place
+Derbent,second
+Simferopol,second
+Makhachkala,first
+Elektrostal,second
+Pushkino,place
+Vladikavkaz,first
+Solnechnogorsk,second
+Murmansk,first
+Kolomna,second
+Astrakhan,first
+Surgut,second
+Pereslavl-Zalessky,second
+Novomoskovsk,second
+Essentuki,second
+Cheboksary,first
+Bishkek,capital
+Ulyanovsk,first
+Istra,first
+Pavlovo,place
+Kostroma,first
+Severodvinsk,second
+Vsevolozhsk,place
+Tomsk,first
+Kotelniki,second
+Lytkarino,second
+Berlin,capital
+Konakovo,second
+Klin,place
+Arkhangelsk,first
+Frankfurt,third
+Nizhnevartovsk,second
+Kerch,second
+Limassol,first
+Blagoveshchensk,first
+Nazran,second
+Yeovil,place
+Uralsk,first
+Vyborg,second
+Novy Urengoy,place
+Vyshny Volochyok,second
+Amsterdam,capital
+Vladimir,first
+Smolensk,first
+Petrozavodsk,first
+Cherkessk,first
+Almetyevsk,place
+Gatchina,second
+Ballerup,second
+Nur-Sultan,capital
+Podolsk,place
+Lyubertsy,second
+Miass,place
+Petropavlovsk-Kamchatskiy,first
+Kurgan,first
+Tyumen,first
+Adana,first
+Barnaul,first
+Nizhny Tagil,place
+Novorossiysk,place
+Tunis,capital
+Veliky Novgorod,first
+Ruza,place
+Rome,capital
+Oryol,first
+Satka,place
+Novoaltaysk,place
+Belgorod,first
+Tambov,first
+Dzerzhinsk,second
+Ust-Ilimsk,place
+Tolyatti,place
+Nefteyugansk,place
+Naro-Fominsk,second
+Orenburg,first
+Barcelona,first
+Yoshkar-Ola,first
+Chisinau,capital
+Dedovsk,place
+Dubna,second
+Beryozovsky,second
+Vyksa,second
+Angarsk,place
+Noginsk,second
+Bucharest,capital
+Krasnoarmeysk,place
+London,capital
+Engels,place
+Helsinki,capital
+Madrid,capital
+Anapa,second
+Staraya Kupavna,place
+Syktyvkar,first
+Kemerovo,first
+53425,second
+Gomel,first
+Klimovsk,place
+Malakhovka,place
+Aprelevka,place
+Tetouan,second
+Taganrog,place
+Meleuz,place
+Volokolamsk,third
+Nevinnomyssk,second
+Uchaly,place
+Aramil,place
+Velikiye Luki,second
+Selyatino,place
+Kimry,second
+Santiago De Los Caballeros,first
+Yerevan,capital
+Losino-Petrovsky,second
+Rodniki,place
+Richmond,place
+Chita,first
+Kursk,first
+Tbilisi,capital
+Beloretsk,place
+Voskresensk,second
+Novocheboksarsk,place
+Kirov,first
+Bobrovskiy,place
+Yakutsk,first
+Kraskovo,place
+Ljubljana,capital
+Sibay,place
+Vorkuta,second
+Shadrinsk,place
+Dimitrovgrad,place
+Haarlem,first
+Prokopyevsk,place
+Gorki-2,place
+Lipa,place
+Yegoryevsk,second
+Korenovsk,second
+Khrustalnyi,place
+Borisoglebsk,first
+Elista,first
+Stuttgart,first
+Yasynuvata,place
+Monino,place
+Tallinn,capital
+Horlivka,second
+Cherepovets,place
+Magnitogorsk,place
+Khotkovo,place
+Kirzhach,second
+Maykop,first
+Dzerzhinsky,second
+Vilnius,capital
+Lukhovitsy,place
+Maloyaroslavets,second
+7668,place
+Kaspiysk,place
+Dusseldorf,first
+Dubai,first
+Feodosiya,second
+Hurghada,first
+Larnaca,first
+Bataysk,place
+Biysk,place
+Budapest,capital
+Walldorf,place
+Helmond,place
+Kovrov,second
+Fryazino,second
+Sosnovoborsk,place
+Mariupol',place
+Belovo,place
+Asbest,second
+Kingisepp,second
+Seversk,place
+Athens,capital
+Tikhvin,second
+Donetsk,first
+Novotroitsk,place
+Casablanca,first
+Podgorica,capital
+Yalta,second
+Agadir,first
+Mozhaysk,second
+Frolovo,place
+Antalya,first
+Havana,capital
+Mezhdurechensk,place
+Kumertau,place
+Shelekhov,place
+Pavlovsky Posad,place
+Paphos,first
+Korsakov,place
+Tomilino,place
+Shlisselburg,place
+Abakan,first
+Polevskoy,second
+Krasnoznamensk,second
+Seville,first
+Kuta Selatan,place
+Salavat,place
+Sosnovy Bor,second
+Chernogolovka,second
+Stary Oskol,place
+Pavlodar,first
+Zvenigorod,place
+Rybinsk,second
+Gorno-Altaysk,first
+Soest,place
+Remagen,place
+Sumy,first
+Ussuriysk,place
+Orsk,place
+Volzhskiy,place
+Bangkok,capital
+Nikolskoye,place
+Verkhnyaya Pyshma,second
+Tosno,second
+Kubinka,place
+Nadym,place
+Novouralsk,place
+Kstovo,second
+Slavyansk-na-Kubani,second
+Middletown,place
+Khanty-Mansiysk,first
+Almaty,first
+Gorzow Wielkopolski,first
+Salekhard,first
+Kashira,place
+Brest,first
+Prague,capital
+Brighton,second
+Vienna,capital
+Stockholm,capital
+Novoshakhtinsk,place
+Vyazniki,second
+Severomorsk,second
+Sindelfingen,place
+Mirny,place
+Male,capital
+Belgrade,capital
+Rossosh,place
+Protvino,place
+Volgodonsk,place
+Tel Aviv-Yafo,first
+Novotitarovskaya,place
+Montreal,second
+Baghdad,capital
+Poltavskaya,place
+Slough,second
+Baku,capital
+Kineshma,second
+Kirovsk,place
+Serov,second
+Kurchatov,second
+Nicosia,capital
+Buynaksk,second
+Kalininets,place
+Side,first
+Buenos Aires,capital
+Seattle,second
+Marks,place
+Zagreb,capital
+Povarovo,place
+Apatity,second
+Bratislava,capital
+Dushanbe,capital
+Revda,second
+Kommunar,place
+Sofia,capital
+Saint-Genis-Pouilly,place
+Riga,capital
+Vancouver,place
+Vinnytsia,first
+Almhult,second
+Orekhovo-Zuyevo,second
+Yevpatoriya,second
+Leninsk-Kuznetskiy,place
+Sovetsk,second
+Burgas,first
+Bratsk,second
+Istanbul,first
+Kislovodsk,second
+Strovolos,second
+Shuya,second
+Ukhta,second
+Serpukhov,second
+Zheleznogorsk,place
+Atyrau,first
+Bor,second
+Berdsk,place
+Hollywood,place
+Khasavyurt,second
+Hadera,place
+Lysva,second
+Iskitim,place
+Tangier,first
+Tarko-Sale,place
+Varadero,place
+Usinsk,second
+Iesi,third
+Shakhovskaya,place
+Marbella,third
+Batumi,first
+Luhansk,first
+Rubtsovsk,place
+Krakow,first
+Alanya,second
+Suhl,third
+Neftekamsk,place
+Elektrogorsk,place
+Porec,second
+Nyagan,place
+Beni-Mellal,first
+Korkino,place
+Izmir,first
+Bakhmut,second
+Armavir,first
+Columbus,first
+Courbevoie,place
+Tobolsk,place
+Bologna,first
+St Andrews,place
+Manavgat,second
+Magadan,first
+Glazov,second
+Komsomolsk-on-Amur,second
+Incheon,first
+Seoul,capital
+Achinsk,place
+Kabul,capital
+Herne,third
+Murom,second
+Miami,second
+Santa Monica,place
+Chania,second
+Rabat,capital
+Rubi,third
+Wroclaw,first
+Kirishi,second
+Khrestivka,place
+Jakarta,capital
+Islamabad,capital
+Karagandy,first
+Хомутово,place
+Kiselyovsk,second
+Azov,second
+Viciebsk,first
+San Francisco,capital
+Saky,place
+Saint-Arsene,place
+Coffeyville,place
+Oslo Municipality,place
+Polysayevo,place
+Myrnohrad,place
+Shatura,second
+Sarov,second
+Udomlya,second
+Samarkand,first
+Alushta,second
+Labytnangi,place
+Тимофеевка,place
+Seminole,place
+Krasnouralsk,place
+Shymkent,first
+Yuzhnyy,place
+Geneva,first
+Barysaw,second
+Kizilyurt,second
+El Jadida,place
+Muhlheim am Main,place
+Bansko,place
+Syzran,place
+Kotlas,second
+Antwerp,place
+Munich,first
+Svetogorsk,place
+Clifton,first
+Volkhov,second
+Tirana,capital
+Belaya Kalitva,second
+Delhi,first
+Taraz,first
+Antratsyt,place
+Lesnoy Gorodok,place
+Kharkiv,first
+Ust-Labinsk,second
+Vyazma,second
+Karlsruhe,second
+Malmo,first
+Sudak,second
+New Cairo City,place
+Mineralnye Vody,place
+Rishon LeTsiyon,place
+Yuzhnouralsk,second
+Oujda,first
+Quezon City,second
+Charlottesville,second
+Zlatoust,place
+Utrecht,first
+Guingamp,third
+Rostock,third
+Niepolomice,third
+Fort Lauderdale,second
+Naaldwijk,place
+North Miami,second
+Naples,first
+Beaver Falls,place
+Jurmala,first
+Lahti,first
+The Hague,place
+Kratovo,first
+Milan,first
+Ashgabat,capital
+Aktobe,first
+Bacau,first
+San Cristobal de La Laguna,place
+Gaziantep,first
+Muhlhausen,third
+Budva Municipality,first
+Bakhchysarai,second
+Gus-Khrustalny,second
+Belogorsk,place
+Payallar,place
+Makiivka,second
+Borovichi,second
+Andijan,first
+Pyt-Yakh,place
+Rotterdam,place
+Bolshoy Kamen,place
+Marseille,first
+Nybro,second
+Merced,second
+Mogilev,first
+Uzlovaya,second
+Kinel,place
+Semender,place
+Mazyr,second
+Artyom,place
+Crissier,place
+Mykolaiv,first
+Sorokyne,second
+Abuja,capital
+Gdansk,first
+Yurga,place
+Irvine,place
+Zurich,first
+Goynuk,place
+Laguna Niguel,place
+Miami Beach,place
+Heviz,place
+Novokuybyshevsk,place
+Noyabrsk,place
+Lublin,first
+Senigallia,third
+Budva,first
+Meknes,second
+Reykjavik,capital
+Durban,second
+Berea,first
+Kizlyar,second
+Tikhoretsk,second
+Spruce Grove,place
+Surat Thani,first
+Beloozyorskiy,place
+Novocherkassk,place
+Kyustendil,first
+Lipitsy,place
+Tuapse,second
+Sharm El-Sheikh,place
+Arzamas,second
+Herzliya,place
+Heraklion,first
+Pechora,place
+Ventspils,first
+Zarechnyy,second
+Haspra,place
+Balakovo,place
+Oludeniz,place
+Mougins,place
+8756,place
+Senftenberg,place
+Tehran,capital
+Isparta,first
+San Jose,capital
+Kamensk-Uralsky,second
+Bonn,place
+Lohne,place
+Mugla,first
+Ust-Katav,place
+Boulogne-Billancourt,third
+Nipomo,place
+Berezniki,second
+Neryungri,place
+Yeysk,second
+Manchester,place
+Hanover,first
+Kolchugino,second
+Dallas,second
+Tilburg,place
+Brescia,second
+Nakhodka,second
+Linz,first
+Enem,place
+Birsk,place
+Qingdao,second
+Netanya,place
+Snezhinsk,place
+Hallandale Beach,place
+Neubiberg,place
+Kopeysk,place
+Klaipeda,first
+Ottawa,capital
+Pireas,third
+Gravesend,third
+Alicante,second
+Royan,place
+Loviisa,third
+Kostanay,first
+Sydney,first
+Ankara,capital
+Kadiivka,place
+Kanevskaya,second
+Las Palmas de Gran Canaria,first
+Prineville,place
+Lviv,first
+Ashburn,place
+Dublin,capital
+Forest City,place
+24130,place
+Rivne,first
+Tripoli,first
+Verkhnyaya Salda,second
+Fort Worth,second
+Baarn,place
+Usolye-Sibirskoye,place
+Rheda-Wiedenbruck,place
+Bukhara,first
+Lulea,first
+Grunheide (Mark),place
+Chegem,second
+Liege,place
+Altoona,place
+Chicago,second
+Ozersk,place
+Vyshneve,place
+Bengaluru,first
+Lodz,first
+Temryuk,second
+Vantaa,third
+Samarskoye,place
+Riccione,third
+Tiberias,place
+Nizhnekamsk,place
+Havelock-Belmont-Methuen,third
+Birmingham,second
+Bologoye,place
+Marrakesh,first
+Nottingham,second
+Cheyenne,first
+Oktyabrsky,place
+Mikhaylovka,place
+Quincy,place
+Tiraspol,first
+Malaga,second
+Bulle,place
+Boca Raton,place
+Ulaanbaatar,capital
+Tampere,first
+Los Angeles,second
+Banja Luka,first
+Urus-Martan,second
+Essen,third
+Washington,capital
+Strasbourg,first
+Varese,second
+Belorechensk,abandoned
+Plastunovskaya,place
+Las Vegas,second
+Lugano,second
+Salihorsk,second
+Sunny Beach,place
+Agoi,place
+Santa Cruz de Tenerife,first
+Vaughan,place
+Bila Tserkva,second
+Leverkusen,third
+Turku,first
+Hamm,place
+Russkiy,place
+Zhytomyr,first
+Philadelphia,second
+Varna,first
+Zaporizhzhia,first
+Shakhty,place
+Mozhga,second
+Тарасовка,place
+Ajman,first
+Vicenza,second
+Benidorm,third
+Campodarsego,third
+Toronto,first
+Pattaya City,place
+Polatsk,second
+Minusinsk,place
+Monchegorsk,place
+Kyshtym,place
+Palisades Park,place
+Elektrougli,place
+New Delhi,first
+Paraiso do Tocantins,second
+Argayash,place
+Bytom,third
+Malang,place
+Pocking,place
+Pushchino,place
+Zhengzhou,first
+Bilbao,second
+Surrey,place
+Aksay,place
+Thessaloniki,first
+Fethiye,second
+Lutsk,first
+Hyderabad,first
+Malysheva,place
+St-Laurent-du-Var,place
+Newcastle upon Tyne,second
+Damascus,capital
+Slovyansk,place
+Dnipro,first
+Hamburg,first
+Cairo,capital
+Badr City,place
+Giza,first
+Kushchyovskaya,second
+Singapore,capital
+Grevenbroich,place
+Ust'-Kamenogorsk,first
+Ternopil,first
+Pyeongtaek-si,place
+Croydon,second
+Lodeynoye Pole,second
+Rostov,first
+Kamensk-Shakhtinsky,second
+Milwaukee,second
+Priozersk,second
+Kramatorsk,second
+Heidelberg,third
+Edinburgh,first
+Gurgaon,place
+Jinan,first
+Suginami City,second
+Cologne,second
+Poronaysk,place
+Balatonfured,second
+Kuta,place
+Veliko Tarnovo,first
+Bohuslav,place
+Orlando,second
+Isfahan,first
+Portland,second
+Naryan-Mar,first
+Birobidzhan,first
+Leatherhead,place
+Severodonetsk,second
+Dovzhansk,second
+San Antonio,second
+Saint-Denis,capital
+Melbourne,first
+Raritan,place
+Espoo,third
+Pomorie,second
+Ruzayevka,second
+Sandviken,second
+Znamenskiy,place
+Phan Thiet,first
+Skovde,second
+Montreuil,place
+Olginka,place
+Petrovskoye,place
+Safonovo,place
+Stryi,second
+Yakhroma,place
+Hyvinkaa,third
+Calgary,place
+Elk Grove Village,place
+Pisa,second
+75709,second
+Liverpool,second
+Brussels,capital
+Copenhagen,capital
+Sola,first
+Gaiduk,place
+Dubrovnik,first
+Narva,second
+Bursa,first
+Detroit,second
+Lisbon,capital
+Lyskovo,second
+Lubny,second
+Colombo,capital
+Chernyakhovsk,second
+Luxembourg,place
+Megion,second
+Atlanta,first
+Phnom Penh,capital
+Horodok,place
+Augsburg,second
+Frisco,place
+Southampton,second
+Eslov,second
+Likino-Dulyovo,place
+Beni Suef,first
+Yelets,second
+Trudovoye,place
+Spassk-Dalny,second
+Boardman,place
+Nuremberg,place
+Florianopolis,first
+Lyuban,place
+Goppingen,third
+Petershagen,place
+Mexico City,capital
+Santo Domingo,place
+Mersin,first
+Lauchhammer,place
+Solingen,third
+Berdychiv,second
+Silifke,second
+Bremen,first
+Kyzylorda,first
+Blagoevgrad,first
+Vijayawada,place
+North Kuta,first
+Wolverhampton,second
+Yalutorovsk,second
+Monza,second
+Glasgow,second
+Sandy Springs,place
+Lutuhyne,place
+Urgench,place
+Osh,first
+Korzhevskiy,place
+Shanghai,first
+Alcobendas,third
+Mint Hill,place
+Rochester,place
+Livorno,second
+Pleasanton,place
+Zarinsk,place
+Anadyr,first
+Kirkland,place
+Dorsten,place
+Kotor Municipality,second
+Berezovka,place
+9992,third
+Aarhus,second
+Brookline,place
+Michurinsk,second
+Secaucus,place
+Kryvyi Rih,second
+West Goshen,second
+Des Moines,first
+Chortkiv,second
+Kostomuksha,place
+Valencia,first
+Navi Mumbai,place
+Coquitlam,third
+Dammam,first
+Oulu,first
+Dhaka,capital
+9954,place
+Shchyokino,second
+Ogre,first
+Long Beach,place
+Plock,second
+Nador,third
+Ho Chi Minh City,first
+Rangpur,first
+Santiago,capital
+Bottrop,third
+Kamianske,second
+Nessebar,place
+Mumbai,first
+Papillion,second
+Chebarkul,place
+Lida,place
+Alexandria,first
+Starnikovo,place
+Boca Del Mar,place
+Kremenchuk,second
+Porto,first
+Desenzano del Garda,third
+Argun,second
+Carlow,second
+Auckland,first
+Daegu,first
+Moquegua,first
+Mukachevo,second
+Nukus,first
+Ramat Gan,place
+Bedford,place
+Forestdale,place
+Hanoi,capital
+Lagos,second
+Schwabisch Hall,third
+Nova Kakhovka,place
+Temirtau,place
+Boston,first
+Gorodishche,place
+Heidenheim,third
+Kurovskoye,place
+Pereiaslav,place
+Hayward,place
+Melitopol',place
+Corfu,first
+Alpharetta,place
+Steyr,third
+Luneburg,third
+Benghazi,first
+Tynda,place
+Namangan,first
+Kakhovka,second
+Kansk,place
+Shinagawa City,place
+Zilina,first
+Sacramento,first
+Genoa,first
+Petah Tikva,place
+Osinovo,place
+Bellevue,place
+Cherkasy,first
+Baranovichi,second
+Ukrainka,place
+Nabeul‎,place
+Kirovo-Chepetsk,second
+Afipsky,place
+Venray,place
+Sanliurfa,first
+Vysokaya Gora,place
+Bodrum,second
+Walnut Creek,place
+Kuznetsk,place
+Muri bei Bern,place
+North Port,capital
+Konya,first
+Hameenlinna,first
+Zelenodolsk,place
+Boden,place
+Hongseong-gun,first
+Dubovoe,place
+Denpasar,first
+Morbach,place
+Ishimbay,place
+Almere,place
+Panama City,capital
+Borshchiv,second
+Forte dei Marmi,third
+Ratsada,second
+6784,first
+Vasylkiv,place
+Kotka,third
+Pereval's'k,place
+Raduzhny,place
+Zamora,first
+Zavidovo,place
+Boves,third
+Cagnes-sur-Mer,place
+Bolzano,second
+Cordoba,first
+Saint-Nazaire,third
+Torrevieja,third
+Rouen,first
+Snizhne,place
+Kathmandu,capital
+Turin,first
+Mountain View,place
+Kampala,capital
+Goryachevodsky,place
+Koshigaya,second
+Accra,capital
+Busan,first
+Pune,place
+Boblingen,third
+Bucha,second
+Arandjelovac,third
+Zarechny,second
+Vallauris,place
+Zagazig,first
+Gadzhiyevo,place
+Balti,first
+Linkoping,first
+Dortmund,third
+Adeje,third
+Jonkoping,first
+Lorient,third
+Herning,second
+Falkensee,place
+Krasnohrad,second
+Chystiakove,place
+Emmen,place
+Lubeck,third
+Gothenburg,first
+83709,first
+Fergana,first
+Holon,place
+Andorra la Vella,capital
+Dar es Salaam,first
+Jyvaskyla sub-region,first
+Port Louis,capital
+Maidstone,second
+Reno,second
+Ivano-Frankivsk,first
+Kaiserslautern,third
+Khmelnytskyi,first
+Merida,first
+Ulsan,first
+Katowice,first
+Polonne,second
+Dagestanskie Ogni,place
+Holzgerlingen,place
+Ashdod,place
+Treviso,second
+Modena,second
+Griesheim,place
+Romny,second
+Tapachula,second
+Slavgorod,place
+Tekirova,place
+Magdeburg,first
+Schwechat,place
+Chernihiv,first
+Lund,second
+Tulum,place
+Dakar,capital
+Garmisch-Partenkirchen,third
+Bryanka,place
+Paderno Dugnano,third
+Ostrov,place
+North Bergen,place
+Luton,second
+Boyarka,place
+Tarvasjoki,place
+Conroe,second
+Lovech,first
+Lisakovsk,second
+Prokhladny,place
+Rehau,place
+Phuket,first
+Kemer,place
+Zaventem,place
+Westminster,place
+Balakhna,place
+Szczecinek,third
+Arsenyev,second
+Nikopol',second
+Reston,place
+Royal Tunbridge Wells,place
+Tartu,first
+Vung Tau,second
+Tal'ne,second
+Bialystok,first
+Zolotonosha,place
+10th of Ramadan City,place
+Caracas,capital
+Trieste,first
+Singen,place
+Villahermosa,first
+Santa Clara,first
+Basingstoke,place
+Davie,place
+Nairobi,capital
+Campinas,place
+Denver,first
+Montevideo,capital
+Bolton,second
+Lucca,second
+Drammen Municipality,first
+Solikamsk,second
+Kropotkin,place
+Rozaje Municipality,first
+Hanau,place
+Petropavl,first
+Surabaya,first
+Porvoo,third
+Visaginas,second
+Doha,capital
+Kungur,second
+Tay Ninh,first
+Tulln,second
+Sartrouville,place
+Bao Loc,second
+Vlasikha,second
+Emden,third
+Daugavpils,first
+Telford,second
+Kuopio,first
+Milton Keynes,second
+Kholmsk,place
+Gudermes,second
+Plan-les-Ouates,place
+Yelizovo,place
+Kachkanar,second
+Torzhok,second
+Biarritz,place
+Recife,first
+Duisburg,third
+7084,place
+Bunde,place
+Irpin',place
+Anchorage,second
+Hoofddorp,place
+Damietta,first
+Rijeka,first
+Zwickau,third
+Kurumoch,place
+Chistopol,place
+Parndorf,third
+Limerick,second
+Babruysk,second
+Nha Trang,first
+Rakvere,first
+Lod,place
+Dana Point,place
+Brisbane,first
+14076,second
+Brody,place
+Haifa,first
+Corinth,second
+Bergamo,second
+13403,first
+Arequipa,first
+Calw,third
+Bernau bei Berlin,place
+Beloyarsky,second
+Vyshhorod,second
+Stony Brook,place
+Bonita Springs,place
+Pinsk,second
+Doral,place
+Shinjuku City,place
+Nettetal,place
+Dachau,third
+Opa-locka,place
+Uccle,place
+Ota City,first
+Jawor,third
+Toledo,first
+Yaounde,capital
+Mogadishu,capital
+Warminster,place
+Cogolin,place
+Saint-Raphael,place
+Guatemala City,capital
+Monchengladbach,third
+Urgup,second
+Eindhoven,place
+Delft,place
+Tuttlingen,third
+Blackburn,second
+Shiraz,first
+Schwabach,third
+Nakhon Si Thammarat,first
+Hvardiis'ke,third
+Langen,place
+Munster,second
+Modi'in-Maccabim-Re'ut,place
+Brovary,second
+Hlukhiv,place
+Kugesi,place
+Valladolid,first
+Beira,first
+Werdohl,place
+Hua Hin,place
+Haar,place
+Empuriabrava,place
+Aichach,third
+Strausberg,place
+Donauworth,third
+Perth,first
+Starokorsunskaya,place
+Netphen,place
+Fontainebleau,third
+Rio Rancho,place
+Kefar Sava,place
+South San Francisco,place
+Bielsko-Biala,third
+Ovidiopol',place
+Tabriz,place
+Deerfield Beach,place
+Monroe Township,second
+Cayirova,second
+Aschaffenburg,third
+Port Orange,place
+Hola Prystan',second
+Yavne,place
+Paks,first
+Barnsley,second
+Albufeira,second
+Samsun,first
+Passau,third
+Nijkerk,place
+Indianapolis,first
+Five Corners,place
+Mysuru,second
+Etterbeek,place
+Plovdiv,first
+Greater Landover,place
+Lissone,third
+Palmdale,place
+Menton,place
+Oberursel,place
+Kiel,first
+Pully,place
+Lauf an der Pegnitz,third
+Hartsdale,place
+Meudon,place
+Sumqayit,first
+Goyang-si,second
+Galveston,second
+Jerusalem,first
+Wembley,place
+Tonawanda,place
+Compiegne,third
+Agueda,second
+Peer,place
+Pavlohrad,second
+Locarno,second
+Dieppe,third
+Bautzen,third
+Fuzhou,first
+Antibes,place
+Chelmsford,second
+Montbeliard,third
+Selfkant,place
+Wurzburg,second
+Ormond Beach,place
+Rio Maior,second
+Shostka,second
+Gloucester,second
+Be'er Sheva,first
+Framingham,place
+Conakry,capital
+Halle,place
+Salzburg,first
+Roth,third
+Herford,third
+Delmenhorst,third
+Rendsburg,third
+Stara Zagora,first
+Charleroi,place
+Rovinj,second
+Beveren,place
+Batu Caves,place
+Meckenheim,place
+Erzurum,first
+Rzeszow,first
+Dover,first
+Zipaquira,second
+Keller,place
+Namur,first
+Sunnyvale,place
+Dolyns'ka,place
+Ocean City,second
+Labinsk,second
+Glenwood,place
+Azemmour,third
+Le Mesnil-Saint-Denis,place
+Kigali,capital
+Svishtov,place
+Tivat Municipality,first
+Toulouse,first
+Terebovlya,second
+Freiburg im Breisgau,second
+Lansing,first
+Elkin,place
+Bangui,capital
+Barlinek,third
+Reyrieux,place
+Baoding,second
+Phenix City,first
+Oldbury,place
+Juravskaia,place
+Chuhuiv,second
+Taebaek-si,second
+Bornheim,place
+Centurion,place
+Nevsehir,first
+Waldbrol,place
+Greven,place
+Brasilia,place
+Garbsen,place
+Pimpri-Chinchwad,place
+Popasna,place
+Halle (Saale),place
+Ostrava,first
+Navoi,first
+Bergen Municipality,place
+Kostopil',place
+Rubizhne,place
+Stanwell,place
+Balikesir,first
+Poissy,place
+La Crescenta-Montrose,place
+Safed,place
+Banska Bystrica,first
+Venice,first
+Smila,second
+Sousse,first
+Gilching,place
+Anantapur,place
+Rychnov nad Kneznou,place
+Uusikaupunki,third
+Friedberg,place
+38402,place
+Amvrosiivka,place
+La Grande-Motte,place
+Radomyshl',second
+Novomoskovs'k,second
+Dahab,first
+Funchal,first
+Wallington,place
+9635,place
+Maddaloni,third
+Tsivilsk,place
+Willich,place
+Parma,second
+Glen Cove,place
+Olsztyn,first
+Ilmenau,place
+2233,capital
+Silver Spring,place
+Andria,second
+Rezekne,first
+Hennef,place
+Sankt Ingbert,place
+Noumea,capital
+Maghull,place
+Sintra,second
+Harjavalta,third
+San Giorgio delle Pertiche,third
+Haskovo,first
+El Dorado Hills,place
+Tulsa,second
+Pretoria,capital
+Kikinda,second
+North Reading,second
+Neumarkt in der Oberpfalz,place
+Cambridge,place
+Krimpen aan den IJssel,place
+Memphis,second
+Halmstad,first
+Montesilvano,third
+Port Coquitlam,third
+Maiduguri,first
+Achim,place
+Polygyros,second
+Kelsterbach,place
+Apex,place
+Boydton,second
+Yalova,first
+Merefa,place
+Nuneaton,place
+Urmia,first
+Vacoas-Phoenix,place
+Kashiwa,second
+Aracaju,first
+Nashville,first
+Lecce,second
+Ramatuelle,place
+Charleville-Mezieres,second
+Offenbach,third
+St-Imier,place
+Lozova,place
+Luxor,first
+Pforzheim,third
+Golden,first
+Syracuse,second
+Montpellier,second
+Nitra,first
+Semibratovo,place
+Cornelius,place
+Menden,place
+New Bedford,place
+Cape Coral,place
+Urdorf,place
+Belo Horizonte,first
+Schkeuditz,place
+Pepperell,place
+Guadalajara,first
+Wilton,place
+Lahore,first
+Geldern,place
+Teramo,second
+Kirklareli,first
+Mollet del Valles,place
+Beirut,capital
+Drama,place
+Osby,second
+Orland,place
+Daejeon,first
+Pau,second
+South Lake Tahoe,place
+Palm Coast,second
+Zug,first
+Bujumbura,first
+New Braunfels,place
+Rivas-Vaciamadrid,place
+Raleigh,first
+Union Park,place
+Ardooie,place
+Hombrechtikon,place
+Pagosa Springs,second
+Fremont,place
+Weehawken,place
+Roissy-en-France,place
+Mason,place
+Wildwood,place
+Kranenburg,place
+Saskatoon,place
+Forest,place
+Slavutych,place
+Ware,place
+Palanga,place
+Tacoma,second
+Roubaix,place
+Elmshorn,place
+Kalajoki,place
+Ashkelon,place
+Jakobsberg,second
+Bootle,place
+Ann Arbor,second
+Overland Park,place
+Palm Valley,place
+Ettlingen,place
+La Teste-de-Buch,place
+Greensboro,place
+Kusnacht,place
+Heilbronn,third
+Hammerfest Municipality,second
+La Plata,first
+Kelowna,place
+Polohy,second
+Sandwich,place
+Anaheim,place
+Bakhmach,place
+Svatove,second
+Marijampole,first
+Aleksandrovsk-Sakhalinskiy,place
+Antony,third
+Rinteln,place
+Saalfelden,third
+Bar,first
+Markham,place
+Detmold,second
+Tapolca,second
+Jelgava,first
+Pornainen,third
+North Plainfield,place
+Dunwoody,place
+Montreux,place
+Keila,second
+Aalen,third
+Prevessin-Moens,place
+Prangins,place
+Bukavu,first
+Nagareyama,second
+Starnberg,third
+Marl,place
+Sana'a,capital
+Freising,third
+Noisy-le-Grand,place
+Hialeah Gardens,place
+Abbotsford,place
+Indore,place
+Franklin,first
+Binfield,third
+Brixen,third
+Huntington Beach,place
+Purcellville,place
+Adelaide,first
+Kusadasi,second
+Constantine,first
+Malatya,first
+Bournemouth,second
+Malyn,place
+Fislisbach,place
+Vientiane,capital
+Cherbourg-Octeville,third
+Wolfurt,third
+Hoorn,place
+Sutton,place
+Halifax,first
+Florencia,first
+Tupelo,second
+Ayase,second
+Majalaya,place
+Marsta,place
+Norrkoping,second
+Filderstadt,place
+Koh Samui,place
+Aberdeen,place
+Eichstatt,third
+Unalaska,place
+Livingston,place
+Retford,place
+Amadora,place
+Sor-Varanger,second
+Sandanski,place
+Baltimore,second
+Zgorzelec,second
+Kushimoto,place
+Playa del Carmen,place
+Germersheim,place
+Nova Vodolaha,place
+Belfort,second
+Postbauer-Heng,place
+Bolekhiv,place
+Nantucket,second
+Sunne,second
+Alimos,third
+Joensuu,first
+Dolyna,place
+Canakkale,first
+Oberstdorf,place
+Managua,capital
+Linden,first
+Murcia,first
+Warwick,first
+Herceg Novi,first
+Lingen,place
+Bad Neuenahr-Ahrweiler,third
+Lancaster,second
+Scottsdale,place
+Santa Barbara,second
+Pa Tong,second
+Porlamar,second
+Medicine Hat,place
+Dronten,place
+Hillsboro,place
+Basildon,place
+Shpola,second
+Parczew,second
+Bayan Lepas,place
+Fes,first
+Paranaque,third
+Zhmerynka,second
+Portimao,place
+Leopoldshohe,place
+Verviers,place
+Woodruff,second
+Giv'atayim,place
+Sanem,third
+Hofheim,third
+Hamina,third
+Cincinnati,second
+Johannesburg,first
+Okhtyrka,second
+Preston,second
+Torre del Mar,place
+Sion,first
+Puerto Plata,first
+Antonivka,place
+Hilo,second
+Ecublens,place
+Changnyeong-gun,place
+Araure,second
+Kragujevac,second
+Southend-on-Sea,second
+Shyroke,second
+Burbank,place
+Dolni Benesov,place
+Spokane Valley,second
+Emmerich,place
+Geislingen,place
+Chatou,place
+Rolla,second
+Jacksonville,second
+Mazeikiai,place
+Weston,second
+Zandvoort,place
+Arnhem,first
+Kawasaki,second
+Grossostheim,place
+Tewksbury,place
+Landsmeer,place
+Ricany,place
+Chalcis,second
+Vinkovci,second
+Iasi,first
+Mandelieu-La Napoule,place
+Cheltenham,place
+Kenitra,first
+Faridabad,place
+Erfurt,first
+Laurel,place
+Plast,place
+Egham,place
+Koto City,second
+Szeged,first
+Hazleton,place
+Albion,place
+Tu Son,third
+Bracknell,second
+Mengwi,place
+Prostejov,place
+Teufen,place
+Aspen Hill,place
+Kozyatyn,second
+Truckee,place
+Bern,capital
+Cinisello Balsamo,third
+Plymouth,first
+Duderstadt,place
+Juuka,third
+Bat Yam,place
+Mannheim,third
+Chilgok-gun,second
+Port Angeles,place
+Ascot,place
+Marhanets',place
+Huntley,place
+Ilza,third
+Bad Breisig,place
+Fastiv,second
+Setubal Municipality,first
+Kalush,second
+Bergen,first
+Ludwigsburg,third
+Nanjing,first
+Citrus Park,place
+St. Gallen,first
+Navapolatsk,second
+Leon,first
+Paju-si,second
+Chatham,first
+Kurakhove,place
+Leusden,place
+Alfortville,place
+Mian Channu,place
+Neu-Ulm,third
+Cluj-Napoca,first
+8230,third
+Troitsk,place
+Saitama,first
+Niort,second
+Nimes,second
+Ekibastuz,second
+Catanzaro,first
+Vaasa,first
+Maastricht,first
+Molndal,second
+Springfield,first
+Papenburg,place
+Cary,place
+Esslingen,third
+San Pedro Garza Garcia,second
+Osnabruck,third
+Horley,place
+Avignon,second
+Chongqing,first
+Edewecht,place
+Kleve,third
+Lamezia Terme,place
+Erlangen,third
+Flossmoor,place
+Kazabazua,third
+Saint Michael,capital
+Europoort Rotterdam,place
+Hastane,place
+Saint Denis,capital
+Offenburg,third
+Kaharlyk,second
+Petaling Jaya,second
+Elche,third
+Durant,place
+Catania,second
+Trostyanets',place
+4697,place
+Bamako,capital
+Nanterre,second
+Asuncion,capital
+Mendoza,first
+Reggio Emilia,second
+Jenstejn,place
+Musselburgh,place
+Thale,place
+Vejle,first
+Santo Tirso,second
+Prattville,second
+Bydgoszcz,first
+Oran,first
+Starobil's'k,second
+Aue,place
+Chattanooga,second
+Solaro,third
+Julich,place
+Berkel en Rodenrijs,place
+Gatineau,place
+Strasswalchen,third
+Odenton,place
+Johor Bahru,first
+Makati,second
+Exmouth,place
+Bad Reichenhall,third
+Gibraltar,capital
+Makariv,second
+Rockledge,place
+Ra'anana,place
+Karabuk,first
+Lubbock,second
+Sesto San Giovanni,third
+Brackenheim,place
+As Municipality,first
+Mataro,third
+Maardu,second
+Langenhagen,place
+Isla Vista,place
+Badalona,third
+Minneapolis,second
+Banbury,place
+Mosonmagyarovar,second
+St. Petersburg,first
+Plano,place
+Noida,place
+Niksic Municipality,first
+Medina,first
+Vielsalm,place
+Bedburg,place
+Coral Gables,place
+Maisons-Alfort,place
+Kielce,first
+Ghent,place
+Lecco,second
+Scranton,second
+Villach,second
+Peniscola,place
+Sofiivka,place
+Zlin,first
+Cape Town,first
+Jena,third
+Freetown,capital
+Da Nang,first
+Constanta,first
+College Park,place
+Pabna,place
+Gronau,place
+Slavyanka,place
+Neuilly-sur-Seine,place
+Sokal,third
+Beziers,third
+Bergen auf Rugen,place
+Citrus Heights,place
+Norfolk,place
+Fulshear,place
+Tracy,place
+Eschborn,place
+Barranquilla,first
+Port-au-Prince,capital
+Maribor,first
+Hammamet,place
+Kingston,capital
+Pisochyn,place
+San Benedetto del Tronto,third
+Hemer,place
+Eumseong-gun,second
+Alfredo V. Bonfil,place
+Oberhausen,third
+Teplice,place
+Ballari,place
+Erkrath,place
+Bad Ragaz,place
+High Wycombe,place
+Olching,place
+Geoje-si,second
+Ely,place
+Gatlinburg,place
+Enschede,place
+Essaouira,third
+Lucan,place
+Invercargill,first
+Guildford,place
+86039,place
+Hlobyne,second
+Moscow,capital
+Ingolstadt,third
+Scunthorpe,second
+Pak Chong,second
+Fermo,second
+Annandale,place
+Friedrichsdorf,place
+Sunset Beach,place
+Saas Fee,place
+Tilbury,place
+Borehamwood,place
+Torrance,place
+Palaiseau,third
+Ramla,first
+Gangneung-si,third
+Kamnik,first
+Peterborough,second
+Lancy,place
+Udine,second
+Swiebodzin,second
+Alesund Municipality,second
+Kawachi District,place
+Setif,first
+Sombor,second
+Saint-Barthelemy-d'Anjou,place
+L'Hospitalet de Llobregat,place
+Zhovti Vody,place
+Wando-gun,second
+12214,place
+Enerhodar,place
+Westport,first
+Edgartown,second
+Wunstorf,place
+Krefeld,third
+Tourcoing,place
+Pilsen,first
+Cerkezkoy,place
+Menlo Park,place
+Esvres,place
+Perkasie,place
+Bollnas,second
+Nelson,first
+Sopron,place
+Gaggenau,place
+Muhldorf,third
+Boa Vista,first
+Kungsangen,second
+Salsk,second
+Lorgues,place
+West Chicago,place
+Hilversum,place
+Wiesbaden,first
+Quinte West,place
+Ouagadougou,capital
+Yavoriv,second
+Antelope,second
+Donostia-San Sebastian,second
+Meyrin,place
+Kirikkale,first
+Alytus,first
+Tirat Carmel,place
+Cedarburg,place
+Tangerang,place
+Nagasaki,first
+Bobo-Dioulasso,first
+Issum,second
+Dearborn,place
+Chernivtsi,first
+Westview,place
+Cebu City,first
+Sarapul,place
+Poltava,first
+Koblenz,third
+Amsterdam Airport Schiphol,place
+Kiryat Ata,place
+Ancona,first
+Trenton,first
+Setagaya City,second
+Boras,second
+Wermelskirchen,place
+Pula,second
+Yokohama,first
+Jeddah,place
+Padua,second
+Asha,place
+Gyumri,first
+Luanda,capital
+Zuhres,place
+Redwood City,second
+Fujairah,first
+Coimbatore,place
+Nizhnyaya Tura,second
+Nizhnebakanskaya,place
+Hedehusene,place
+Reading,second
+Kohtla-Jarve,place
+Haparanda,second
+Kremenets',place
+Iver,place
+Limburg,first
+Harare,capital
+88040,third
+Kos,place
+Liberec,first
+Strassen,third
+Crystal Lake,place
+Gwangju,first
+Suwon-si,first
+Addis Ababa,capital
+Bridgewater Township,place
+Bielefeld,place
+Beijing,capital
+Kropyvnytskyi,first
+Schiltigheim,place
+Torshavn,capital
+Semey,first
+Keszthely,second
+Karon,place
+Chornomors'ke,place
+Lausanne,first
+Kaunas,first
+Aventura,place
+Villeneuve-le-Roi,place
+Gentofte,place
+Minato City,second
+Lenina,place
+Kouvola,first
+Glendale,place
+Yalikavak,place
+Chuo City,place
+St. Louis,second
+Wuppertal,third
+Kuala Lumpur,capital
+Khartoum,capital
+Orimattila,third
+Shenzhen,second
+Kalmiuske,place
+Denizli,first
+Mainz,first
+Fletcher,place
+Quito,capital
+Flensburg,third
+Salou,place
+Uzhhorod,first
+Lafayette,second
+Chervonohrad,second
+Ronne,second
+Bethesda,place
+Woodbridge Township,place
+Cham,first
+Potsdam,first
+Woluwe-Saint-Pierre,place
+Imatra,third
+Friedrichshafen,third
+Mai Khao,place
+Radebeul,place
+San Bernardino,second
+Zhashkiv,place
+Brandon,place
+Kerava,third
+Ambur,place
+Ras Al-Khaimah,first
+Kolkata,first
+Belfast,first
+Baiersbronn,place
+Grand Rapids,second
+Leipzig,third
+Sao Paulo,first
+Dobrich,first
+Bhubaneswar,first
+Serik,place
+Graz,first
+Verona,second
+Votkinsk,second
+Ahrensburg,place
+IJmuiden,place
+Manama,capital
+Katav-Ivanovsk,place
+Ehingen,place
+Rawai,place
+Otradny,second
+Khust,second
+Maputo,capital
+Fort Madison,place
+Zhongli District,place
+Alexandroupoli,place
+Sale,place
+Mechelen,place
+La Mesa,place
+Levanger Municipality,second
+Sandton,place
+Wellington,capital
+61925,place
+Cannes,place
+Sosnowiec,place
+Kanash,place
+Ludwigshafen,third
+Balakliya,place
+Houston,second
+Timika,place
+Kayseri,first
+Perpignan,second
+Suez,first
+Agra,second
+Chornomorsk,place
+Caltanissetta,second
+Lyngby,second
+Neuenhagen,place
+Vanadzor,first
+Dartford,place
+Osaka,first
+Jecheon-si,second
+Greystones,place
+Asan-si,place
+Algeciras,third
+Waldkirch,place
+Lysychans'k,second
+Lyon,first
+Arlington,second
+Gimhae-si,place
+Taldykorgan,first
+Konstanz,third
+Dalnegorsk,place
+Windhoek,capital
+6th of October City,place
+Kourou,third
+Pesaro,second
+Sambir,second
+Appenweier,place
+Chennai,first
+Vovchans'k,place
+Drohobych,second
+Concord,place
+Tarlac City,second
+59139,place
+Griffin,place
+Konotop,second
+Nahariyya,place
+Acre,first
+Nis,second
+Glenvar Heights,place
+Horishni Plavni,place
+Medellin,first
+Dijon,first
+Euskirchen,third
+Kanpur,place
+Clearwater,place
+Abu Dhabi,capital
+Inta,place
+Bissen,third
+Zwolle,first
+Ibiza,place
+39404,second
+Helsingborg,second
+Opfikon,place
+Si Sunthon,third
+Marmaris,second
+Mississauga,place
+Schiedam,place
+Basel,first
+Solna,second
+Epsom,place
+Jarvenpaa,third
+Biberach,third
+Germantown,place
+Laem Chabang,place
+Merignac,place
+Crailsheim,place
+San Tan Valley,place
+Port Aransas,place
+92323,place
+Sukhodil's'k,place
+Szczecin,first
+Mito,first
+Kiruna,second
+Lidingo,second
+Dunfermline,place
+Reykjanesbaer,place
+Guzelcamli,place
+Hartola,place
+Olpe,place
+Kovel',second
+Eregli,place
+Chipiona,third
+Bogolyubovo,place
+Visakhapatnam,second
+Reutlingen,third
+Guangzhou,first
+Recyca,second
+Antananarivo,capital
+Mulheim,place
+Amstetten,third
+Nieuwerkerk aan den IJssel,place
+Wangen im Allgau,place
+Celle,first
+Avanos,second
+Mudanya,second
+Land O' Lakes,place
+Bovenkarspel,place
+Vannes,second
+Trento,first
+Kinshasa,capital
+Warren,place
+Bogota,capital
+Bridgeport,place
+Poularies,place
+53405,second
+Pryluky,second
+Granollers,place
+Sonoma,second
+Paterno,third
+Haman-gun,second
+Rio de Janeiro,first
+Rawalpindi,second
+Nogliki,place
+West Hartford,place
+Salt Lake City,first
+Moorestown,place
+Ubud,place
+Sant Cugat del Valles,third
+Bavly,second
+Tacna,first
+Boryspil',place
+Lappeenranta,first
+Berkeley,place
+Wokingham,second
+Boppard,place
+Siedlce,place
+Sarajevo,capital
+Wasilla,place
+Pietermaritzburg,first
+Kitchener,second
+Mandalay,first
+Farmington Hills,place
+Duivendrecht,place
+Arnavutkoy,place
+Rosenheim,third
+Nijmegen,place
+Acharnes,third
+Volodymyr-Volynsky,place
+Palatka,place
+Hagenow,place
+Tamworth,place
+Nagoya,first
+Krolevets',place
+Frederick,second
+Tampa,second
+Timisoara,first
+North Fort Myers,second
+Duren,third
+Royal Leamington Spa,place
+Petersberg,place
+Largo,first
+Sunny Isles Beach,place
+Redwood Meadows,place
+Kumagaya,second
+Leeds,second
+Bryant,place
+Liphook,place
+Nice,second
+Olevs'k,place
+Livermore,place
+Marina del Rey,third
+Reims,third
+Lille,first
+Holubivka,place
+Bari,first
+Kassel,second
+Karmiel,place
+Ulm,third
+Afula,place
+Palm Beach Gardens,place
+Regensburg,second
+Kuusamo,third
+Pokrovsk,place
+Zolochiv,second
+Montecatini Terme,third
+Parsippany-Troy Hills,place
+Brno,first
+Almelo,place
+Matsudo,second
+Woodbury,second
+Liepaja,first
+Richmond Hill,place
+Biatorbagy,place
+Beslan,second
+Bordeaux,first
+Gross-Umstadt,place
+8161,place
+Ampang Jaya,place
+Aachen,third
+Farnham,place
+Marlow,place
+Mount Lebanon,place
+Avdiivka,place
+Maracaibo,first
+Winnipeg,first
+Kansas City,place
+Brazzaville,capital
+Bretten,place
+Hazerswoude-Dorp,place
+Brunswick,first
+Weesp,place
+Guelph,place
+Debrecen,first
+Siauliai,first
+Achern,place
+Recklinghausen,third
+Bagsvaerd,place
+Kartaly,place
+Santa Ana,first
+Taoyuan District,place
+Valga,first
+Cancun,place
+Kelkheim,place
+Rennes,first
+Christchurch,first
+Monteria,first
+Attleboro,place
+Ceske Budejovice,first
+Wolfsburg,third
+Gander,place
+Ridgefield Park,place
+Unterageri,place
+Oakland,second
+Piaseczno,second
+Odessa,first
+Mount Prospect,place
+Abidjan,first
+Yangon,first
+Zhodzina,second
+Busto Arsizio,third
+Cabo San Lucas,place
+Riihimaki,third
+Maladzyechna,second
+Phoenix,first
+74565,place
+Bridgwater,place
+Myrhorod,second
+Norderstedt,place
+Narita,place
+Bryukhovetskaya,second
+Novi Sad,first
+Vanino,place
+Lommel,place
+Brownsburg,place
+Kup'yans'k,second
+Stamford,place
+La Romana,first
+Thousand Oaks,place
+Chieti,second
+Bender,first
+Pittsburgh,second
+Overijse,place
+Siegen,third
+Humanes de Madrid,third
+Gutersloh,third
+East Northport,place
+Aalborg,first
+Calabasas,place
+Karlovy Vary,first
+Kuwait City,capital
+Basauri,third
+Lemvig,second
+Southport,place
+Camberley,place
+Salla,third
+Newark,place
+Zaslauje,place
+Antipolo,second
+Khotyn,place
+Maasvlakte Rotterdam,place
+Gandia,third
+Dresden,first
+Kalamata,second
+Westfield,place
+Izmail,place
+Makassar,first
+Margate,place
+Metz,second
+Casale Monferrato,third
+Ekero,second
+Streetsboro,place
+Orsha,second
+Taby,second
+Bochum,third
+Khouribga,third
+Pasadena,place
+Naron,third
+Famagusta,first
+Upplands Vasby,second
+Gateshead,second
+Lome,capital
+Florence,first
+Celebration,place
+Wolgast,place
+Zvenyhorodka,second
+Uman',place
+Sinsheim,place
+Thanh Hoa,first
+Como,second
+Oyster Bay,place
+Badajoz,third
+Meppel,place
+Cardiff,first
+Voznesens'k,second
+Pineto,third
+Solon,place
+Oldenburg,third
+Winterthur,second
+Austin,first
+Uddevalla,second
+Moraga,place
+Kherson,first
+Zatec,place
+'s-Hertogenbosch,first
+Kochi,first
+Wheeling,place
+North Miami Beach,place
+Forchheim,third
+Nivala,second
+Alfter,place
+La Canyada,place
+Meissen,third
+Jersey City,second
+New Orleans,second
+Amstelveen,place
+Schonefeld,place
+Neuss,third
+Mierzyn,place
+Gorlitz,third
+Johvi,first
+Sollentuna,second
+Obukhiv,second
+Tres Lagoas,place
+Golcuv Jenikov,place
+Vitoria-Gasteiz,first
+Ansan-si,place
+San Diego,second
+Chiyoda City,place
+Lisieux,third
+Poznan,first
+Costa Mesa,place
+Waco,second
+Chantilly,place
+Industrial'nyy,place
+Pak Phriao,place
+Yenakijeve,place
+Berdyans'k,place
+Krasnoperekops'k,place
+Pervomais'k,place
+Voronezjskaja,place
+Stavanger Municipality,place
+Wolno-Nadeschdinskoje,place
+Kobelyaky,place
+Lorenskog Municipality,place
+Armyans'k,place
+Belebey,place
+Kostyantynivka,place
+Krasnoturyinsk,place
+Alchevs'k,place
+Pervomais'kyi,place
+Pershotravens'k,place
+Steinkjer Municipality,place
+Korsun'-Shevchenkivs'kyi,place
+Novoye Devyatkino,place
+Shakhtars'k,place
+Sokouri,place
+Artemovskiy,place
+Fredrikstad Municipality,place
+Mikkeli Province,place
+Sovjets'kyi,place
+Hresivs'kyi,place
+Debal'tseve,place
+Zhigulevsk,place
+Zavolzhye,place
+Novoazovs'k,place
+Troedobelikovskiy,place
+Novomikhailovskii,place
+Dobropillya,place
+Krasnohvardiis'ke,place
+Dorokhovskoja,place
+Novohrad-Volyns'kyi,place
+Kolomyya,place
+Nyzhnya Krynka,place
+Tuymazy,place
+Petrovo-Dalneye,place
+Kam'yanets'-Podil's'kyi,place
+Ilovais'k,place
+Mohyliv-Podil's'kyi,place
+Oktyabrs'ke,place
+Emel'yanovo,place
+Sandnes Municipality,place
+Novoukrainskoye,place
+Dokuchajevs'k,place
+Dzhankoi,place
+Lyubotyn,place
+Novhorod-Sivers'kyi,place
+Synel'nykove,place
+Roven'ky,place
+Bilhorod-Dnistrovs'kyi,place
+Chusovskoye Urban Settlement,place
+Yunokomunarivs'k,place
+Yuzhnoukrains'k,place
+Velykodolyns'ke,place
+Bilohirs'k,place
+Veliky Ustyug,place
+Kresttsy,place
+Zagorjanskas,place
+Chernomorskii,place
+Ullensaker Municipality,place
+Stolberg (Rhineland),place
+Yablonovsky,place
+Khartsyz'k,place
