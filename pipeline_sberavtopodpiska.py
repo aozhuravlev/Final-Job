@@ -139,17 +139,6 @@ def filling_device_brand(df):
     return df
 
 
-# def filling_nans_with_mode(df):
-#     df = df.copy()
-#     function_name = 'All NANs filling'
-#     start_time = time.time()
-#     for i in df.columns:
-#         df[i] = df[i].fillna(df[i].mode()[0])
-#     end_time = time.time()
-#     print_status_and_duration(function_name, start_time, end_time)
-#     return df
-
-
 # def feature_engineering(df):
 def datetime_conversion(df):
     df = df.copy()
@@ -422,7 +411,6 @@ def main():
     data_preparation = Pipeline(steps=[
         ('filling_device_os', FunctionTransformer(filling_device_os)),
         ('filling_device_brand', FunctionTransformer(filling_device_brand)),
-        # ('filling_nans_with_mode', FunctionTransformer(filling_nans_with_mode)),
     ])
 
     feature_engineering = Pipeline(steps=[
