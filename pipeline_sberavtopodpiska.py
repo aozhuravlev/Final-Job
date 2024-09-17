@@ -11,6 +11,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.metrics import roc_auc_score
 from sklearn.model_selection import train_test_split, cross_val_score
 from xgboost import XGBClassifier
+from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import FunctionTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
@@ -35,9 +36,12 @@ def print_status_and_duration(function_name, start, end):
 def data_loading():
     function_name = 'Data loading and merging'
     start_time = time.time()
-    df_hits = pd.read_csv("ga_hits.csv", dtype={"hit_time": "float64", "hit_number": "Int32"})
+    path = 'c:/Users/User/skillbox/data_for_final_job/'
+    ga_hits = path + "ga_hits.csv"
+    df_hits = pd.read_csv(ga_hits, dtype={"hit_time": "float64", "hit_number": "Int32"})
     df_hits = df_hits[["session_id", "event_action"]]
-    df_sessions = pd.read_csv("ga_sessions.csv", dtype={"visit_number": "Int32"}, low_memory=False)
+    ga_sessions = path + "ga_sessions.csv"
+    df_sessions = pd.read_csv(ga_sessions, dtype={"visit_number": "Int32"}, low_memory=False)
     df = pd.merge(left=df_sessions, right=df_hits, on='session_id', how='inner')
     end_time = time.time()
     print_status_and_duration(function_name, start_time, end_time)
@@ -135,15 +139,15 @@ def filling_device_brand(df):
     return df
 
 
-def filling_nans_with_mode(df):
-    df = df.copy()
-    function_name = 'All NANs filling'
-    start_time = time.time()
-    for i in df.columns:
-        df[i] = df[i].fillna(df[i].mode()[0])
-    end_time = time.time()
-    print_status_and_duration(function_name, start_time, end_time)
-    return df
+# def filling_nans_with_mode(df):
+#     df = df.copy()
+#     function_name = 'All NANs filling'
+#     start_time = time.time()
+#     for i in df.columns:
+#         df[i] = df[i].fillna(df[i].mode()[0])
+#     end_time = time.time()
+#     print_status_and_duration(function_name, start_time, end_time)
+#     return df
 
 
 # def feature_engineering(df):
@@ -406,17 +410,19 @@ def main():
     categorical_features = make_column_selector(dtype_include=["object"])
 
     numerical_transformer = Pipeline(steps=[
+        ("imputer", SimpleImputer(strategy="most_frequent")),
         ("scaler", StandardScaler()),
     ])
 
     categorical_transformer = Pipeline(steps=[
+        ("imputer", SimpleImputer(strategy="most_frequent")),
         ("encoder", OneHotEncoder(handle_unknown="ignore"))
     ])
 
     data_preparation = Pipeline(steps=[
         ('filling_device_os', FunctionTransformer(filling_device_os)),
         ('filling_device_brand', FunctionTransformer(filling_device_brand)),
-        ('filling_nans_with_mode', FunctionTransformer(filling_nans_with_mode)),
+        # ('filling_nans_with_mode', FunctionTransformer(filling_nans_with_mode)),
     ])
 
     feature_engineering = Pipeline(steps=[
@@ -478,7 +484,7 @@ def main():
                 'author': 'Aleksey Zhuravlev',
                 'version': 1,
                 'date': datetime.datetime.now(),
-                'type': type(fully_fitted_pipe.named_steps["classifier"]).__name__,
+                'type': type(model).__name__,
                 'accuracy': score
             }
         }, file, recurse=True)
