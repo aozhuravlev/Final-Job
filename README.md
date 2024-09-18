@@ -78,7 +78,7 @@ Example response:
 ```
 {
 	"client_id":"568149281.1640107892",
-    "prediction": 0
+	"prediction": 0
 }
 ```
 
