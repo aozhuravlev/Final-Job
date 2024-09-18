@@ -20,7 +20,7 @@ from sklearn.compose import make_column_selector
 
 def playsound():
     pygame.mixer.init()
-    pygame.mixer.music.load("finished_.mp3")
+    pygame.mixer.music.load("media/finished_.mp3")
     pygame.mixer.music.play()
     while pygame.mixer.music.get_busy():
         pygame.time.Clock().tick(10)
@@ -36,11 +36,10 @@ def print_status_and_duration(function_name, start, end):
 def data_loading():
     function_name = 'Data loading and merging'
     start_time = time.time()
-    path = 'c:/Users/User/skillbox/data_for_final_job/'
-    ga_hits = path + "ga_hits.csv"
+    ga_hits = "data/csv/ga_hits.csv"
     df_hits = pd.read_csv(ga_hits, dtype={"hit_time": "float64", "hit_number": "Int32"})
     df_hits = df_hits[["session_id", "event_action"]]
-    ga_sessions = path + "ga_sessions.csv"
+    ga_sessions = "data/csv/ga_sessions.csv"
     df_sessions = pd.read_csv(ga_sessions, dtype={"visit_number": "Int32"}, low_memory=False)
     df = pd.merge(left=df_sessions, right=df_hits, on='session_id', how='inner')
     end_time = time.time()
@@ -163,7 +162,7 @@ def day_categorization(df):
 
     def get_holidays_list():
         holidays_list = []
-        with open('holidays_list.csv', mode='r', newline='') as file:
+        with open('data/csv/holidays_list.csv', mode='r', newline='') as file:
             reader = csv.reader(file)
             for row in reader:
                 holiday_row = tuple(map(int, row))
@@ -263,7 +262,7 @@ def city_type_categorization(df):
     start_time = time.time()
 
     def get_city_type_dict():
-        csv_filename = 'updated_city_type.csv'
+        csv_filename = 'data/csv/updated_city_type.csv'
         city_type = {}
 
         with open(csv_filename, mode='r') as file:
@@ -464,7 +463,7 @@ def main():
     score = round((round((roc_auc_score(y_test, fitted_pipe.predict_proba(x_test)[:, 1])), 6) * 100), 2)
     
     fully_fitted_pipe = pipe.fit(X, y)
-    with open('user_action_prediction_pipeline.pkl', 'wb') as file:
+    with open('models/user_action_prediction_pipeline.pkl', 'wb') as file:
         dill.dump({
             'model': fully_fitted_pipe,
             'metadata': {

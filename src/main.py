@@ -7,7 +7,7 @@ from typing import Optional
 
 
 app = FastAPI()
-with open('user_action_prediction_pipeline.pkl', 'rb') as file:
+with open('models/user_action_prediction_pipeline.pkl', 'rb') as file:
     model = dill.load(file)
 
 class Form(BaseModel):
