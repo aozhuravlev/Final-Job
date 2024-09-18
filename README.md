@@ -36,7 +36,6 @@ In this case, we achieved a ROC-AUC score of 0.675, which surpasses the required
 
 Interpreting the importance of features is crucial for understanding how different variables influence the model's predictions. Below are some of the key features that the model considers most important:
 
-- **utm_source**: The source of the traffic (e.g., Google, direct, social media) plays a significant role in user behavior.
 - **device_category**: Whether the user is browsing from a mobile device, desktop, or tablet impacts engagement.
 - **geo_country** and **geo_city**: Location data can significantly influence a user's likelihood of performing a target action.
 - **visit_number**: The number of times a user has visited the site provides context on user familiarity and intent.
