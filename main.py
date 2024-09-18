@@ -2,8 +2,9 @@ import dill
 import pandas as pd
 
 from fastapi import FastAPI
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 from typing import Optional
+
 
 app = FastAPI()
 with open('user_action_prediction_pipeline.pkl', 'rb') as file:

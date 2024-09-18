@@ -1,0 +1,4 @@
+name: SberAutoSubscription
+channels:
+  - defaults
+prefix: /home/alex_crane/miniconda3/envs/SberAutoSubscription
